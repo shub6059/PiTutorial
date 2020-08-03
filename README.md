@@ -3,29 +3,7 @@
 * Raspberry Pi tutorial for beginners.
 * based on 
   * https://learn.adafruit.com/series/learn-raspberry-pi (original tutorial)
-  * https://github.com/zhangshuo951227/raspberry-pi/wiki (updated for Jessie)
-  * 2017 Summer Short Course 
 
----
-# Lab 326 settings
-* During the lab, you will work as a group of 2 (or 3) members. 
-* Seat arrangement 
-    * **Odd** number: PC (do not remove anything from it). You will need this to google solutions for any troubles you may have. 
-    * **Even** number: Raspberry Pi 
-        * Do not remove keyboard or mouse from the PC. Extra keyboards and mouses are provided during the lab.
-        * You're recommended to use WiFi to connect you RPI to the internet. But, if you need wired connection with static IP, you may use the ethernet cable from your PC. When you're done, please put it back to the PC. 
-        * Connect HDMI cable to your RPI and the display. Then, don't forget to change the input of your display to HDMI.
-        * **AFTER YOU'RE DONE. PUT EVERYTHING BACK!**    
-* We have WiFis for Raspberry Pi in 326 (during the lab) and 413 (24h). Access info is as follows. 
-    * 326 (during the lab)
-        * SSID/pw: RPI_5G / raspberrypi
-        * SSID/pw: RPI / raspberrypi
-    * 413
-        * Register and get access info from [here](http://smart.inu.ac.kr/eecs/).
-* **NO FOOD IN THE LAB!**
-    * If you bring any food, your grade goes down by one level.
-    * NO SNACK! NO COFFEE! NO JUICE! NO TEA!
-    * The only exception is water WITH A CAP. 
 
 # Lab 1. Intro to RPI
 ## Pre-lab Questions
